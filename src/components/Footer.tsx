@@ -109,7 +109,7 @@ const Footer = () => {
   <div className="flex flex-col md:flex-row justify-between items-center gap-4">
     <p className="text-sm text-primary-foreground/80">
       © {currentYear} Loyola School, Jamshedpur. All rights reserved. | Developed by{" "}
-      <span className="text-accent font-semibold">Huzaifa Ahmad</span>
+      <span className="text-accent font-semibold">Huzaifah Ahmad</span>
     </p>
     <div className="flex gap-4">
       <a
